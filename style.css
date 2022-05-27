@@ -1,0 +1,39 @@
+body{
+    background: #C7D0CC;
+}
+
+section{ 
+    background: #FFFFFF;
+    height: 490px;
+    width: 300px;
+    position: absolute;
+
+    top: 20%;
+    left: 40%;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.imagecode{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.titre{
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+    line-height: 150%;
+    font-family: 'Outfit', sans-serif;
+}
+
+.text{
+    font-size: 15px;
+    text-align: center;
+    line-height: 120%;
+    color: #808080;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+
